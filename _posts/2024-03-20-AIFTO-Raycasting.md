@@ -12,7 +12,7 @@ This video covers how the **FishView.py** script works
 The goal of this code was to write an algorithm that would rapidly determine if each fish (*observer*) could see a *target* or if that *target* was covered by an *obstructor*. An example can be seen below.
 ![Observer Target Example](../assets/AIFTORaycasting/FishCodeVid1.png)
 
-# Process
+# Process - Whoops
 ## How Raycasting Normally Works
 Raycasting—as seen in many video games—is meant to resolve whether one object is obstructed relative to another object with respect to sight. In the above diagram we can see how the target is obstructed by the obstructor from the view of the observer. In standard ray casting algorithms (made for video games) the precise dimensions of the observer, obstructor, and target are known. The projection of the rays onto the shapes making up the obstructor and target can be calculated directly.  
 
