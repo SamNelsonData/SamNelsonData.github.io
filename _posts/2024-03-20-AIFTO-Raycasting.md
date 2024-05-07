@@ -2,7 +2,7 @@
 title: Raycasting - AI Vision Post-Processing
 date: 2024-03-20 18:10:00
 categories: [AI,PostProcessing]
-tags: [AI,Internship,swe]
+tags: [AI,Internship,swe,Python]
 ---
 
 This video covers how the **FishView.py** script works  
