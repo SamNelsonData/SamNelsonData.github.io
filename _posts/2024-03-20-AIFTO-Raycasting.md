@@ -1,8 +1,8 @@
 ---
-title: Raycasting - AI Vision Post-Processing
+title: Raycasting - Computer Vision Post-Processing
 date: 2024-03-20 18:10:00
 categories: [AI,PostProcessing]
-tags: [AI,Internship,swe,Python]
+tags: [AI,Internship,swe,Python,Portfolio]
 ---
 
 This video covers how the **FishView.py** script works  
@@ -14,13 +14,15 @@ The goal of this code was to write an algorithm that would rapidly determine if 
 
 # Process
 ## How Raycasting Normally Works
-Raycasting—as seen in many video games—is meant to resolve whether one object is obstructed relative to another object with respect to sight. In the above diagram we can see how the target is obstructed by the obstructor from the view of the observer. In standard ray casting algorithms (made for video games) the precise dimensions of the observer, obstructor, and target are known. The projection of the rays onto the shapes making up the obstructor and target can be calculated directly.  
+Raycasting—as seen in many video games—is meant to resolve whether one object is obstructed relative to another object. In the above diagram, we can see how the target is obstructed from the view of the observer. In standard ray casting algorithms the objects are created by the program so the precise dimensions and locations of the observer, obstructor, and target are known. The projection of the rays onto the shapes making up the obstructor and target can be calculated directly.  
 
 ## How This Application Differs
 The dimensions of the fish are not already known; the neural network creates bounding boxes around fish. From these, estimates are made of the fish pixels by fitting a distribution to the background and selecting only pixels that are unusually dark (see the example below).  ![Lab Fish Example](../assets/AIFTORaycasting/FishTestImage1.PNG)  
 We can either use raycasting with the bounding boxes (**very** fast but not precise) or use the the fish pixels to get a more precise estimate of which fish can be seen.  
 If we want to use the fish pixels, we still need a way of creating a simpler shape for the fish (unless we want to check each pixel individually). We have 2 options: we can either use a method similar to [gift-wrapping](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm) or we can find the silhouette of each fish—a line segment in 2D space—relative to the observer.  
-Each has their own advantages. Gift-wrapping only happens once for each fish; determining the silhouette of a fish relative to the observer happens $n*(n-1)$ where $n$ is the number of fish. Determing the silhouette is very quick as it can be done with vectorized functions in numpy and only requires checking the corner pixels of each fish rather than every pixel. Raycasting with polygons also requires [point-in-polygon (PIP)](https://en.wikipedia.org/wiki/Point_in_polygon#:~:text=One%20simple%20way%20of%20finding,an%20even%20number%20of%20times.) checks while raycasting with the silhouette only requires finding the intersection of the ray and 2 other line segments (very fast).  
+Each has their own advantages.  
+**Gift-wrapping** only needs to happen once for each fish; i.e. determining the silhouette of a fish relative to the observer happens $n*(n-1)$ where $n$ is the number of fish.  
+The **silhouette** method is very quick as it can be done with vectorized functions in numpy and only requires checking the corner pixels of each fish rather than every pixel. Raycasting with polygons also requires [point-in-polygon (PIP)](https://en.wikipedia.org/wiki/Point_in_polygon#:~:text=One%20simple%20way%20of%20finding,an%20even%20number%20of%20times.) checks while raycasting with the silhouette only requires finding the intersection of the ray and 2 other line segments (very fast).  
 The code linked at the bottome uses the second method—determining the silhouette of each fish relative to the observer.
 
 ## Silhouette Method
