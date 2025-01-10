@@ -35,4 +35,32 @@ The story of ARM China and Allen Wu illustrates how risky FDI in China can be fo
 # Is China Unjustified in its Approach to IP Laws?
 China has frequently come under fire for trade practices. Their use of “...opaque subsidy policies, currency manipulations, or coerced transfer of IP as a condition of approval of foreign direct investment…” (Prado and Trebilcock, 2022) has led to many calls from countries like the US for changes to the WTO to enforce compliance with fair trade policies. The theft of IP by China and other developing countries is not wholly unjustified, however. The Trade Related Intellectual Property Rights (TRIPs) Agreement has been criticized for restricting access to IP related to life-saving medicines and other things (Prado and Trebilcock, 2022). Considering that pharmaceutical companies will take advantage and overcharge (Tyler et al, 2022), disregarding IP laws to produce life-saving medicine is justifiable. China has gone beyond such IP theft, however, and cannot expect other countries to respect its IP copyrights until China responds in kind. Overall, IP laws need to be less restrictive—especially in the case of medicine—while also having better methods of enforcing copyright laws. China’s antagonistic approach to trade is understandable in the case of medicine IP, but nationalism and public-private relationships is incompatible with liberalized trade.
 
-Close partnerships between the government and the private sector allowed China to escape many of the traps of SOEs and thrive but damage trade relations and FDI in the process. The Chinese model is a fascinating variant of nationalized corporations. Codified methods for rewarding bureaucrats for expedient and thoughtful work could prevent Access Money from slipping into more destructive forms of corruption. The Chinese model may still be unsuccessful; according to Yuen Yuen Ang “...the Chinese economy is not just a high-growth economy but also a high-risk and out-of-balance economy.” (Yuen Yuen Ang, 2021) Perhaps all this spectacular growth will only lead to a spectacular fall. Yuen Yuen Ang also notes that the two countries with the highest amount of “Access Money” are the U.S.A. and China. While in China the corporations predominantly follow the whims of the government the reverse may be true in the U.S.A. Ultimately this economic system—similar in many ways to that of the U.S.A.—is incompatible with democracy since by design it encourages fast paced decision making without any transparency removing any public control over the country reminiscent of democracy.
+Close partnerships between the government and the private sector allowed China to escape many of the traps of SOEs and thrive but damage trade relations and FDI in the process. The Chinese model is a fascinating variant of nationalized corporations. Codified methods for rewarding bureaucrats for expedient and thoughtful work could prevent Access Money from slipping into more destructive forms of corruption. The Chinese model may still be unsuccessful; according to Yuen Yuen Ang “...the Chinese economy is not just a high-growth economy but also a high-risk and out-of-balance economy.” (Yuen Yuen Ang, 2021) Perhaps all this spectacular growth will only lead to a spectacular fall. Yuen Yuen Ang also notes that the two countries with the highest amount of “Access Money” are the U.S.A. and China. While in China the corporations predominantly follow the whims of the government the reverse may be true in the U.S.A. Ultimately this economic system—similar in many ways to that of the U.S.A.—is incompatible with democracy since by design it encourages fast paced decision making without any transparency removing any public control over the country reminiscent of democracy.  
+
+--------------  
+
+Chase, Adam, director. Why You Can’t Be Fired in China If You Have This Stamp. YouTube, 14 Apr. 2022, https://www.youtube.com/watch?v=fKcywQQKqqg. Accessed 10 May 2022. 
+
+Chen, Audrey. “Doing Business in China: Overview - Practical Law.” Thomson Reuters Practical Law, 1 Aug. 2021, https://uk.practicallaw.thomsonreuters.com/8-501-1377?contextData=(sc.Default)
+
+Hissey, Ian. “Investing in Chinese State-Owned Enterprises.” FactSet Insight - Commentary and Research from Our Desk to Yours, FactSet, 17 Dec. 2019, https://insight.factset.com/investing-in-chinese-state-owned-enterprises
+
+Mazzucato, Mariana. The Entrepreneurial State: Debunking Public vs. Private Sector Myths. Penguin Books, 2013. 
+
+“OECD Dataset on the Size and Composition of National State-Owned Enterprise Sectors.” 2012. https://www.oecd.org/corporate/oecd-dataset-size-composition-soe-sectors.htm
+
+Patel, Dylan. “The Semiconductor Heist of the Century: Arm China Has Gone Completely Rogue, Operating as an Independent Company with Inhouse IP/R&amp;D.” The Semiconductor Heist Of The Century | Arm China Has Gone Completely Rogue, Operating As An Independent Company With Inhouse IP/R&amp;D, SemiAnalysis, 27 Aug. 2021, https://semianalysis.substack.com/p/the-semiconductor-heist-of-the-century?s=r. 
+
+Prado, Mariana Mota, and Michael J. Trebilcock. Advanced Introduction to Law and Development. Edward Elgar Publishing, 2021.
+
+“The Foreign Investments Act.” SICE, http://www.sice.oas.org/investment/natleg/us/usfiac.asp#:~:text=The%20foreign%20investor%20is%20permitted,impartial%20treatment%2C%20and%20full%20security
+
+“Total Market Value of U.S. Stock Market.” Siblis Research, 9 May 2022, https://siblisresearch.com/data/us-stock-market-value/
+
+Tyler Schneider, Tara Gomes, Kaleen N. Hayes, Katie J. Suda, Mina Tadrous,
+Comparisons of Insulin Spending and Price Between Canada and the United States, Mayo Clinic Proceedings, Volume 97, Issue 3, 2022, Pages 573-578, ISSN 0025-6196, https://doi.org/10.1016/j.mayocp.2021.11.028.
+
+Weiner, Fanny, et al. “4 Key Challenges for Reforming State-Owned Enterprises: Lessons from Latin America.” World Bank Blogs, World Bank, 8 Sept. 2015, https://blogs.worldbank.org/governance/4-key-challenges-reforming-state-owned-enterprises-lessons-latin-america
+
+Yuen Yuen, Ang. “The Robber Barons of Beijing.” Can China Keep Rising?, 4th ed., vol. 100, Council on Foreign Relations, New York, NY, 2021, pp. 30–39. Foreign Affairs. https://macua.blogs.com/files/foreign-affairs_july-august-2021.pdf 
+
