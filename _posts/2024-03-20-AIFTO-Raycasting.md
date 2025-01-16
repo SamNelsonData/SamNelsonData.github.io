@@ -14,7 +14,7 @@ The goal of this code was to write an algorithm that would rapidly determine if 
 
 # Process
 ## How Raycasting Normally Works
-Raycasting—as seen in many video games—is meant to resolve whether one object is obstructed relative to another object. In the above diagram, we can see how the target is obstructed from the view of the observer. In standard ray casting algorithms the objects are created by the program so the precise dimensions and locations of the observer, obstructor, and target are known. The projection of the rays onto the shapes making up the obstructor and target can be calculated directly.  
+Ray casting—as seen in many video games—is meant to resolve whether one object is obstructed relative to another object. In the above diagram, we can see how the target is obstructed from the view of the observer. In standard ray casting algorithms the objects are created by the program so the precise dimensions and locations of the observer, obstructor, and target are known. The projection of the rays onto the shapes making up the obstructor and target can be calculated directly.  
 
 ## How This Application Differs
 The dimensions of the fish are not already known; the neural network creates bounding boxes around fish. From these, estimates are made of the fish pixels by fitting a distribution to the background and selecting only pixels that are unusually dark (see the example below).  ![Lab Fish Example](../assets/AIFTORaycasting/FishTestImage1.PNG)  
