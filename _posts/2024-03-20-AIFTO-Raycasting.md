@@ -1,5 +1,5 @@
 ---
-title: Raycasting - Computer Vision Post-Processing
+title: Raycasting - Computer Vision Output Analysis
 date: 2024-03-20 18:10:00
 categories: [AI,PostProcessing]
 tags: [AI,Internship,swe,Python,Portfolio]
