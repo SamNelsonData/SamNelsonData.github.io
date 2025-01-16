@@ -1,5 +1,5 @@
 ---
-title: How China Fixed State-Owned Enterprises and Undercut liberalized trade in the Process
+title: How China Fixed State-Owned Enterprises and Undercut Liberalized Trade in the Process
 date: 2022-03-22 18:47:00
 categories: [UC Berkeley]
 tags: [Economics, Capitalism, Portfolio]
