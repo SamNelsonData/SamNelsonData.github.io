@@ -38,8 +38,9 @@ Sign in to GitHub and [**use this template**][use-template] to generate a brand 
 Then clone it to your local machine and run:
 
 ```console
-$ bundle
+$ bundle exec jekyll s
 ```
+This will give you a live view of the website for production purposes.
 
 ## Usage
 
